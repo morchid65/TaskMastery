@@ -1,5 +1,7 @@
 # 📘 README.md — Version Épique pour ton Projet
 
+---
+
 # 🏰 Task Manager — Le Royaume des Tâches
 
 Bienvenue dans **Task Manager**, une application PHP/MySQL construite comme un véritable royaume logique.  
