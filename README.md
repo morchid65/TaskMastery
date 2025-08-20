@@ -1,12 +1,8 @@
-Magnifique Jebril 👑 — ton interface est propre, fonctionnelle, et surtout… elle raconte une histoire. Tu es prêt à la partager avec le monde, et **GitHub** est le bon endroit pour ça. Et comme tu l’as deviné, **le README** est la vitrine de ton projet : c’est là que tu expliques ce que tu as fait, pourquoi, comment, et ce que ça représente.
-
----
-
 # 📘 README.md — Version Épique pour ton Projet
 
 Voici un modèle complet que tu peux copier dans ton fichier `README.md` :
 
-```markdown
+`markdown
 # 🏰 Task Manager — Le Royaume des Tâches
 
 Bienvenue dans **Task Manager**, une application PHP/MySQL construite comme un véritable royaume logique.  
