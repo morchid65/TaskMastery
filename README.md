@@ -1,8 +1,5 @@
 # 📘 README.md — Version Épique pour ton Projet
 
-Voici un modèle complet que tu peux copier dans ton fichier `README.md` :
-
-`markdown
 # 🏰 Task Manager — Le Royaume des Tâches
 
 Bienvenue dans **Task Manager**, une application PHP/MySQL construite comme un véritable royaume logique.  
